@@ -21,7 +21,7 @@ This application is implemented in Python
 # How to Use
 
 1.Clone the Repository:
-      git clone https://github.com/your-username/shopping-cart.git
+      git clone https://github.com/DharmaTej123/ZennodeTask1.git
 2.Navigate to the Project Directory:
       cd ZennodeTask1
 3.Run the Program:
