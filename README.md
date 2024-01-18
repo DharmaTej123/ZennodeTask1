@@ -25,7 +25,7 @@ This application is implemented in Python
 2.Navigate to the Project Directory:
       cd ZennodeTask1
 3.Run the Program:
-      python ZennodeTask1.py
+      python Task1.py
 4.Follow On-Screen Prompts:
       Input quantities and gift-wrapping preferences as prompted.
 5.Review Detailed Summary:
